@@ -1,4 +1,6 @@
 # DAY 1
 ## 8:30 to 9:30
-- List 1
-- [img]
+- We started our day at Gurudwara Sahib doing Shabad Kirtan
+- ## 9:30 to 10:00
+- Refreshment was arranged for students infront of Hostel no.2 Boys
+- 
