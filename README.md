@@ -23,6 +23,15 @@
 
 #### Er. Rakesh Kumar- ADC LUDHIANA
 
+#### Knowing CSE Department
+After the inaugral ceremony, voluteers guided us to the CSE department where our mentor introduced us to the college facilities and social activities.
+We also took a glimpse of the computer and reasearch labs.
 # DAY 2
+## 9:00 to 11:00 
+### Lecture by Dr. Jaswinder Singh
+- He is a man with great wisdom and humour. He taught us about importance of mathematics . He said that we should learn things with fun.
+- He also did some experiments showing us wave nature and describing sound .
+###  Lecture by Dr. Priya Darshani
+- Dr.Priya Darshani showed us the difference between happiness and excitement. She told us that we should know the reason for the path we choose.
 
  
