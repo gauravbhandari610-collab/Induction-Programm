@@ -27,6 +27,14 @@
 After the inaugral ceremony, voluteers guided us to the CSE department where our mentor introduced us to the college facilities and social activities.
 We also took a glimpse of the computer and reasearch labs.
 # DAY 2
+## 1:00 to 2:00
+### Lecture by Dr. Arshdeep Singh
+- Dr. Arshdeep Singh told us about the importance of nutritious diet in our day to day life. He said that we should take proper food having enough amount of minerals and vitamins which will keep us energetic all day along.
+## 2:00 to 3:00 
+### Session by Causmic Club 
+
+
+# DAY 3
 ## 9:00 to 11:00 
 ### Lecture by Dr. Jaswinder Singh
 - He is a man with great wisdom and humour. He taught us about importance of mathematics . He said that we should learn things with fun.
