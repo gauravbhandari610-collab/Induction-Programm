@@ -27,6 +27,12 @@
 After the inaugral ceremony, voluteers guided us to the CSE department where our mentor introduced us to the college facilities and social activities.
 We also took a glimpse of the computer and reasearch labs.
 # DAY 2
+## 9:30 to 10:30 
+- English proficiency test was conducted.
+- The difficulty level of test was decent and I believe test was good.
+## 10:30 to 11:30 
+- Maths proficiency test was also being conducted.
+- The test had basic concepts from class 10 to 12. The test was of medium level but I got to know that I need to revise my concepts from class 11.
 ## 1:00 to 2:00
 ### Lecture by Dr. Arshdeep Singh
 - Dr. Arshdeep Singh told us about the importance of nutritious diet in our day to day life. He said that we should take proper food having enough amount of minerals and vitamins which will keep us energetic all day along.
@@ -40,6 +46,19 @@ We also took a glimpse of the computer and reasearch labs.
 - He is a man with great wisdom and humour. He taught us about importance of mathematics . He said that we should learn things with fun.
 - He also did some experiments showing us wave nature and describing sound .
 ###  Lecture by Dr. Priya Darshani
-- Dr.Priya Darshani showed us the difference between happiness and excitement. She told us that we should know the reason for the path we choose.
+- Dr.Priya Darshani showed us the difference between happiness and excitement.
+-  She told us that we should know the reason for the path we choose.
+-  She gave us home assignments to us focusing on self intro-spection.
+# DAY 4
+## 9:30 to 10:30 
+- We had our first class P2P.
+- Our seniors from third year taught us how to write basic code and told us about different types of variables both theory and practical.
+## 10:30 to 11:30 
+- After P2P lecture there was our english class conducted by Prof. Manjot Kaur.
+- She took introduction from whole class and made atmosphere familiar.
+## 12:30 to 2:30 
+### Dr. Priya Darshni
+- Today was second lecture conducted by Dr. Priya Darshni.
+
 
  
