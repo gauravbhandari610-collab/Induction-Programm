@@ -75,7 +75,7 @@ After the auditorium session, we were taken to the **CSE Department**:
 - Discussed the role of vitamins and hydration in concentration.
 - Encouraged healthy lifestyle habits and reducing junk food intake.
 
-#### 🎤 Cosmic Club — (⏰ 2:00 PM – 3:00 PM)
+#### 🎤 Causmic Club — (⏰ 2:00 PM – 3:00 PM)
 - Introduced GNDEC’s vibrant student cultural club.
 - Showcased past cultural fests and competitions.
 - Shared insights on auditions and membership.
@@ -144,7 +144,7 @@ After the auditorium session, we were taken to the **CSE Department**:
 
 #### 🎤 Dr. Arvind Dhingra — (⏰ 3:00 PM – 4:00 PM)
 - Spoke about college academic structure and hierarchy.
-- Provided a roadmap of semester-wise progression.
+- Did some activites to make the atmosphere more fun.
 - Shared important tips to excel academically and emotionally.
 - Motivated students to build lasting relationships on campus.
 
@@ -181,5 +181,12 @@ After the auditorium session, we were taken to the **CSE Department**:
 - Introduced loop statements and basic logic building.
 - Shared tips to get through first semester efficiently.
 - Helped ease anxiety and inspired peer-to-peer learning.
+
+---
+## ✅ Conclusion  
+
+The first six days of the Induction Program at **GNDEC** have been nothing short of transformative. We have been introduced to not only our academic roadmap but also to the values, opportunities, and support systems the college offers. Whether through spiritually rich beginnings, motivational speeches, or peer-led coding tutorials, each session added immense value to our mindset and growth.
+
+With structured academics, vibrant clubs, faculty mentorship, and peer collaboration — GNDEC has already started shaping us into professionals with purpose. I'm truly grateful for this well-designed induction and look forward to everything that lies ahead.
 
 ---
