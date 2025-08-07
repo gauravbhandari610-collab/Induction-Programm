@@ -1,6 +1,6 @@
 # 📝 Induction Program Report
 *Guru Nanak Dev Engineering   College (GNDEC), Ludhiana*
-Department of Computer Science and Engineering 
+*Department of Computer Science and Engineering*
 **👤 Name:** Gaurav Bhandari  
 **👨‍👦 Father’s Name:** Mr. Anurag  
 **📘 Branch:** Computer Science and Engineering  
